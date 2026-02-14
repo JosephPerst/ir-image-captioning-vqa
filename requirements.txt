@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+torchvision
+transformers
+Pillow
+PyYAML
+matplotlib
+jupyter

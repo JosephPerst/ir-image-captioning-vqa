@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Data files
+*.csv
+*.json
+*.pkl
+data/
+datasets/
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+models/
+checkpoints/
+weights/
+
+# Images (large datasets)
+*.jpg
+*.jpeg
+*.png
+images/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+runs/
